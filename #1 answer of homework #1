@@ -1,0 +1,10 @@
+1. Feynman Writing Prompts
+  A. Variables: A variable contains a value. Values are called data types. Variables can hold many different data types like numbers, strings, objects and more. When you use a variable you refer to the data it represents.
+  
+  B. Strings: A string is a data type. It stores a series of characters like "lambda school". A string can be any text inside double or single quotes. 
+  
+  C. Functions(arguments, return): A function is a set of instructions that perform a task to calculate a value. Functions can be given data to work with, that data is called an argument. The result of function is called a return.
+  
+  D. if statements: An if statement executes a block of code if a specified condition is true. If the condition is false,another block of code can be executed. The if statement is a conditional statement. Conditional statements are only executed when a condition is met. For example, subtract variable A from variable B if A is greater than 10 would be considered a conditional statement because it will only execute if A is greater than 10.
+  
+  E. Boolean values (true, false): A boolean is a data type that represents two values, either true or false. If not specified, the initial value of a boolean is false. 
